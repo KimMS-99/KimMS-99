@@ -4,6 +4,7 @@
 - **Operating Systems**: Linux (Ubuntu, Yocto), Windows
 - **Development Tools**: GCC, Makefile, GDB
 - **Embedded Systems**: Raspberry Pi, STM32, Arduino
+- **Libraries & Frameworks**:
 
 # Project
 - [Smart_Iot_Disaster_Prevention_Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)<br>
