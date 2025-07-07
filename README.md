@@ -6,7 +6,7 @@ LinuxC
 LinuxBSP
 C++
 ### Project
-[Smart_Iot_Disaster_Prevention_Office](../Smart_Iot_Disaster_Prevention_Office)
+[Smart_Iot_Disaster_Prevention_Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
 ---
 <!--
 **Kim-MS-99/Kim-MS-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
