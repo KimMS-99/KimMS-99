@@ -1,12 +1,13 @@
 ## Intel_Edge_AI_SW_Academy
 
-### Training
-[c]
-LinuxC
-LinuxBSP
-C++
 ### Project
-[Smart_Iot_Disaster_Prevention_Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
+[1. Smart_Iot_Disaster_Prevention_Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)<br>
+---
+### Training
+[c]<br>
+[LinuxC](https://github.com/Kim-MS-99/IntelAISW_LinuxC)<br>
+[LinuxBSP](https://github.com/Kim-MS-99/IntelAISW_LinuxBsp)<br>
+[C++](https://github.com/Kim-MS-99/IntelAISW_cpp)
 ---
 <!--
 **Kim-MS-99/Kim-MS-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
