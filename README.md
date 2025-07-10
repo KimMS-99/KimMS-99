@@ -11,7 +11,6 @@
 ---
 # Training
 - [C/C++](https://github.com/KimMS-99/C_CPP)<br>
-- [LinuxC](https://github.com/Kim-MS-99/IntelAISW_LinuxC)<br>
 - [LinuxBSP](https://github.com/Kim-MS-99/IntelAISW_LinuxBsp)<br>
 - [Arduino-Stm32](https://github.com/KimMS-99/Arduino-Stm32)<br>
 - [Qt](https://github.com/KimMS-99/Qt)<br>
