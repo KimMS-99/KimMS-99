@@ -2,9 +2,10 @@
 
 - **Programming Languages**: C, C++
 - **Operating Systems**: Linux (Ubuntu, Yocto), Windows
-- **Development Tools**: GCC, Makefile, GDB
 - **Embedded Systems**: Raspberry Pi, STM32, Arduino
-- **Libraries & Frameworks**:
+- **BSP**: Linux Kernel, Device Driver, Bootloader (U-Boot), Root Filesystem
+- **Development Tools**: GCC, Makefile, GDB, STM32CubeIDE, VS Code
+- **Libraries & Frameworks**: Qt, OpenCV
 
 # Project
 - [Smart_Iot_Disaster_Prevention_Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)<br>
