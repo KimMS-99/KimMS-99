@@ -15,6 +15,7 @@
 - [Arduino-Stm32](https://github.com/KimMS-99/Arduino-Stm32)<br>
 - [LinuxBSP](https://github.com/Kim-MS-99/IntelAISW_LinuxBsp)<br>
 - [Qt](https://github.com/KimMS-99/Qt)<br>
+- [OpenCV](https://github.com/KimMS-99/OpenCV)<br>
 ---
 <!--
 **Kim-MS-99/Kim-MS-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
