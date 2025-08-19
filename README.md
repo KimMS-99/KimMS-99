@@ -1,7 +1,4 @@
 ## 💻 Technical Skills
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimMS-99&layout=compact&theme=tokyonight)
-
 - **Programming Languages**: C, C++, Python
 - **Embedded Systems**: Raspberry Pi, STM32(STM32F411RE), Arduino(ATmega328P)
 - **BSP**: Linux Kernel, Device Driver, Bootloader (U-Boot), Root Filesystem
