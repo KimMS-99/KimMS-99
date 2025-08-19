@@ -2,7 +2,6 @@
 - **Programming Languages**: C, C++, Python
 - **Embedded Systems**: Raspberry Pi, STM32(STM32F411RE), Arduino(ATmega328P)
 - **BSP**: Linux Kernel, Device Driver, Bootloader (U-Boot), Root Filesystem
-- **Development Tools**: GCC, Makefile, GDB, STM32CubeIDE, VS Code
 - **Libraries & Frameworks**: Qt, OpenCV
 
 # 🛠️ Project
