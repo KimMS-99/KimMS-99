@@ -5,9 +5,11 @@
 - **Libraries & Frameworks**: Qt, OpenCV
 
 # 🛠️ Project
+- [Intel Project](https://github.com/KimMS-99/Intel-Project-Team4)
 - [Smart Iot Disaster Prevention Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
 ---
 # 📖 Training
+- [Embedded-Linux](https://github.com/KimMS-99/embedded-linux)
 - [[Intel]Edge AI SW Academy7](https://github.com/KimMS-99/Intel_Edge_AI_SW_Academy7)
 ---
 
