@@ -5,7 +5,7 @@
 - **Libraries & Frameworks**: Qt, OpenCV
 
 # 🛠️ Project
-- [Intel Project](https://github.com/KimMS-99/Intel-Project-Team4)
+- [Smart Desk](https://github.com/KimMS-99/Smart-Desk)
 - [Smart Iot Disaster Prevention Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
 ---
 # 📖 Training
