@@ -12,7 +12,7 @@
 - [Embedded-Linux](https://github.com/KimMS-99/embedded-linux)
 - [[Intel]Edge AI SW Academy7](https://github.com/KimMS-99/Intel_Edge_AI_SW_Academy7)
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/isdnket/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isdnket)](https://solved.ac/isdnket/)
 <!--
 **KimMS-99/KimMS-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
