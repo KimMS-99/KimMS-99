@@ -7,6 +7,7 @@
 # 🛠️ Project
 - [Smart Desk](https://github.com/KimMS-99/Smart-Desk)
 - [Smart Iot Disaster Prevention Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
+- [손 동작 인식 디바이스 제어](https://github.com/SugarG-G/Intel7_Vison_Dev_Project)
 ---
 # 📖 Training
 - [Embedded-Linux](https://github.com/KimMS-99/embedded-linux)
