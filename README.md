@@ -5,6 +5,7 @@
 - **Libraries & Frameworks**: Qt, OpenCV
 
 # 🛠️ Project
+- [최종 프로젝트](https://github.com/jeong7231/intel7_final_team6)
 - [Smart Desk](https://github.com/KimMS-99/Smart-Desk)
 - [Smart Iot Disaster Prevention Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
 - [손 동작 인식 디바이스 제어](https://github.com/SugarG-G/Intel7_Vison_Dev_Project)
