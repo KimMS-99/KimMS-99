@@ -1,11 +1,12 @@
 ## 💻 Technical Skills
 - **Programming Languages**: C, C++, Python
-- **Embedded Systems**: Raspberry Pi, STM32(STM32F411RE), Arduino(ATmega328P)
-- **BSP**: Linux Kernel, Device Driver, Bootloader (U-Boot), Root Filesystem
-- **Libraries & Frameworks**: Qt, OpenCV
+- **Embedded Hardware**: Raspberry Pi (BCM2711), STM32 (STM32F411RE), Arduino (ATmega328P)  
+- **BSP & Low-Level**: Linux Kernel, Device Driver, Bootloader (U-Boot), Yocto, Root Filesystem
+- **Operating Systems**: Ubuntu, MacOS, Windows
+- **Libraries & Frameworks**: OpenCV, ROS, Qt
 
 # 🛠️ Project
-- [최종 프로젝트](https://github.com/jeong7231/intel7_final_team6)
+- [최종 프로젝트](https://github.com/jeong7231/intel7_final_team6)(진행 중)
 - [Smart Desk](https://github.com/KimMS-99/Smart-Desk)
 - [Smart Iot Disaster Prevention Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
 - [손 동작 인식 디바이스 제어](https://github.com/SugarG-G/Intel7_Vison_Dev_Project)
