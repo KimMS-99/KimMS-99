@@ -7,9 +7,12 @@
 
 # 🛠️ Project
 - [최종 프로젝트](https://github.com/jeong7231/intel7_final_team6)(진행 중)
-- [Smart Desk](https://github.com/KimMS-99/Smart-Desk)
-- [Smart Iot Disaster Prevention Office](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
+- [스마트 책상](https://github.com/KimMS-99/Smart-Desk)
+  - AI를 통한 사용자 인식과 자세감지, 졸음감지를 통한 각종 처리를 하는 프로젝트
+- [스마트 & 재난 대비 오피스](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
+  - 각종 센서(초음파 센서, 진동 센서, 화재감지 센서 등)와 모듈(적외선 송신기, 서보모터 등)을 활용하여 스마트 오피스 & 재난 대비 오피스 기능 결합 프로젝트
 - [손 동작 인식 디바이스 제어](https://github.com/SugarG-G/Intel7_Vison_Dev_Project)
+  - openCV mediapipe 모델을 활용한 손 동작 인식으로 디바이스 제어 프로그램
 ---
 # 📖 Training
 - [Embedded-Linux](https://github.com/KimMS-99/embedded-linux)
