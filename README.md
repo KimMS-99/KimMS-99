@@ -6,10 +6,10 @@
 - **Libraries & Frameworks**: OpenCV, ROS, Qt
 
 # 🛠️ Project
-- [최종 프로젝트](https://github.com/jeong7231/intel7_final_team6)(진행 중)
-  - 자율주행 로봇 기반 물류 자동화 시스템
 - [스마트 책상](https://github.com/KimMS-99/Smart-Desk)
   - AI를 통한 사용자 인식과 자세감지, 졸음감지를 통한 각종 처리를 하는 프로젝트
+- [택배 물류 자동화 시스템](https://github.com/jeong7231/intel7_final_team6)
+  - 자율주행 로봇 기반 물류 자동화 시스템
 - [스마트 & 재난 대비 오피스](https://github.com/Kim-MS-99/Smart_Iot_Disaster_Prevention_Office)
   - 각종 센서(초음파 센서, 진동 센서, 화재감지 센서 등)와 모듈(적외선 송신기, 서보모터 등)을 활용하여 스마트 오피스 & 재난 대비 오피스 기능 결합 프로젝트
 - [onvif-rtsp-browser](https://github.com/KimMS-99/onvif-rtsp-browser)
